@@ -1,28 +1,5 @@
 # Daria Sobolewska
 Throughout my career, I have mainly worked in the area of customer service, including the last three years as a casino dealer. This experience allows me to feel confident in skills such as **communication** (both in English and Polish) and **problem-solving**. For almost three years, I also held the position of president of the dance group association (in which I also danced), thanks to which I feel confident both in **management** and in **teamwork**. I have recently decided to radically change my career path, looking for a profession that will enable me to develop myself. And hence the decision to try my hand as a software tester. In this portfolio, I would like to share my testing knowledge that I have gathered since I made this decision. I am a very **fast learner** and - most importantly - I **like to learn**, so I believe that this portfolio will grow quickly.
-## Courses
-- Dare IT - [Become a Manual Tester](https://www.dareit.io/challenges/qa-manual-testing):
-  - Exploratory tests,
-  - Writing test cases,
-  - Bug reporting,
-  - Mobile application testing,
-  - **SQL** basics,
-  - [Repository with all tasks](https://github.com/daszkass/DareIT-challange--Portfolio-preparing).
-- Evolution Gaming - QA Automation Bootcamp:
-  - Integration testing, 
-  - API testing, 
-  - E2E tests,
-  - Automation testing with **Cucumber** and **WebdriverIO**.
-- uTest Academy:
-  - Exploratory tests,
-  - Bug reporting,
-  - Screenshots and screen recordings,
-  - Browser and mobile device logs,
-  - API testing.
-- [SQL in 120 minutes](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
-- Udemy courses:
-  - [Software testing with Jira & Agile,](https://www.udemy.com/course/learn-software-testing-in-practical-become-a-qa-expert/?kw=Software+testing+with+Jira+%26+Agile&src=sac)
-  - [Kick off your gaming QA career - basics of testing for games.](https://www.udemy.com/course/kick-off-your-gaming-qa-career-basics-of-qa-for-games/)
 ## My projects
 ### Automation tests:
 * [Automation tests for online shop](https://github.com/daszkass/CUCUMBER-Automation-tests-for-online-shop), written in **JavaScript** with **Cucumber** framework
@@ -48,5 +25,36 @@ Throughout my career, I have mainly worked in the area of customer service, incl
 - Git, GitHub.
 ### Other:
 - SQL,
-- JIRA,
 - browser DevTools.
+## Courses
+- Dare IT - [Become a Manual Tester](https://www.dareit.io/challenges/qa-manual-testing):
+
+  > **[Certificate](https://drive.google.com/file/d/1BBnq8wQbjLq6HNjnXet_dRC6VhlzW5hP/view?usp=sharing)**
+  - Exploratory tests,
+  - Writing test cases,
+  - Bug reporting,
+  - Mobile application testing,
+  - **SQL** basics,
+  - [Repository with all tasks](https://github.com/daszkass/DareIT-challange--Portfolio-preparing).
+- Evolution Gaming - QA Automation Bootcamp:
+
+  > **[Certificate](https://drive.google.com/file/d/1wyck84qIee08jsMJQlUKx9TDC2PurkR8/view?usp=drive_link)**
+  - Integration testing, 
+  - API testing, 
+  - E2E tests,
+  - Automation testing with **Cucumber** and **WebdriverIO**.
+- uTest Academy:
+  - Exploratory tests,
+  - Bug reporting,
+  - Screenshots and screen recordings,
+  - Browser and mobile device logs,
+  - API testing.
+- [SQL in 120 minutes](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
+- Udemy courses:
+  - [Software testing with Jira & Agile,](https://www.udemy.com/course/learn-software-testing-in-practical-become-a-qa-expert/?kw=Software+testing+with+Jira+%26+Agile&src=sac)
+  - [Kick off your gaming QA career - basics of testing for games.](https://www.udemy.com/course/kick-off-your-gaming-qa-career-basics-of-qa-for-games/)
+### Other:
+- Meetup with #React: Do your own organizer app
+
+> **[Certificate](https://drive.google.com/file/d/12ip--ulDF3esy3Dbcao4PDhghAjgkFBw/view?usp=sharing)**
+
